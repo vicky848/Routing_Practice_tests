@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.nav-bar {
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+
+  padding: 10px;
+}
+
+.wave-image {
+  height: 30px;
+  width: 30px;
+  margin-top: 18px;
+}
+
+.nav-link {
+  color: #12022f;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  margin: 5px;
+  color: #12022f;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-top: 18px;
+}
+.nav-link {
+  text-decoration: none;
+}
